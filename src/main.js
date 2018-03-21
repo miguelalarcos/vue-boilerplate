@@ -16,7 +16,7 @@ import VueRx from 'vue-rx'
 
 Vue.use(VueRx, Rx)
 Vue.use(VueMaterial)
-Vue.use(VeeValidate);
+Vue.use(VeeValidate)
 
 Vue.config.productionTip = false
 
